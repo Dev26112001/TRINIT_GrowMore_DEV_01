@@ -30,11 +30,14 @@ HTML,CSS,JAVASCRIPT,NODE the key features worked on are :
 
 
 i)Adding a search filter for the NGO's list- which makes it easier for the user to navigate to the NGO specific 
-to his location
+to his location.
+
 ii) Multi-user login page - This page increases the login/signup flow pattern of the website and also seperates 
 the NGO login and user login so that they can be directed to different pages corncerning them respectively.
+
 iii) Introducing Community groups and tools for a better communication and colloborative work between philanthropists
  and NGOs- Creation of a discord group so that the users can connect through discord and communicate by using-chat/video 
  conferencing facilities and also included skype for better tech in purpose of video conferencing.
+ 
 iv) Improving transparency and accountability-incoperated by using a safe and secure method of payment- RazorPay and 
 integrating it with the website. (Currently in test mode)
