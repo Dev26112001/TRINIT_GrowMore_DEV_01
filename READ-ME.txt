@@ -1,24 +1,20 @@
-                                          PROBLEM STATEMENT 1 (DEV 01)
+                                                              PROBLEM STATEMENT 1 (DEV 01)
                                   
-                                          Rooting for a good cause.
+                                                                Rooting for a good cause.
 
                                                 
-                                                Objectives:
-                                                
+                                                                     Objectives:
+
                 ● To create a centralized platform that makes it easy for philanthropists to discover and support NGOs working in areas they are passionate about.
 
-● To provide philanthropists with comprehensive information about each NGO,
-including their mission, history, and impact, to help them make informed
-decisions.
+                ● To provide philanthropists with comprehensive information about each NGO,including their mission, history, and impact, to help them make informed
+                  decisions.
 
-● To improve transparency and accountability in the donation process by
-providing real-time updates on the use of funds and the impact of donations.
+                ● To improve transparency and accountability in the donation process by providing real-time updates on the use of funds and the impact of donations.
 
-● To provide NGOs with a way to reach a larger audience and secure the funding
-they need to carry out their missions.
+                ● To provide NGOs with a way to reach a larger audience and secure the funding they need to carry out their missions.
 
-● To facilitate better collaboration and communication between philanthropists
-and NGOs to help maximize the impact of their efforts.
+                ● To facilitate better collaboration and communication between philanthropists and NGOs to help maximize the impact of their efforts.
 
 
                                     ISHCHARITY 
