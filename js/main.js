@@ -175,6 +175,7 @@
         }
     });
 
+    // filter
     const filterSelect = document.querySelector('#filter-select');
 const items = document.querySelectorAll('.item');
 
@@ -191,6 +192,7 @@ filterSelect.addEventListener('change', function() {
     }
   });
 });
+// filter End
     
 })(jQuery);
 
