@@ -174,6 +174,23 @@
             }
         }
     });
+
+    const filterSelect = document.querySelector('#filter-select');
+const items = document.querySelectorAll('.item');
+
+filterSelect.addEventListener('change', function() {
+  const selectedValue = this.value;
+
+  items.forEach(function(item) {
+    if (selectedValue === 'all') {
+      item.style.display = 'block';
+    } else if (item.dataset.category === selectedValue) {
+      item.style.display = 'block';
+    } else {
+      item.style.display = 'none';
+    }
+  });
+});
     
 })(jQuery);
 
