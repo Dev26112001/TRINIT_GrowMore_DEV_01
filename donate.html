@@ -177,8 +177,8 @@
                     <button type="submit">Apply Filter</button>
                   </form><br><br>
                 <!-- filter End -->
-                <div class="row">
-                    <div class="col-lg-4">
+                <div class="row" id="city-list">
+                    <div class="col-lg-4" class="city state1">
                         <div class="blog-item">
                             <div class="blog-img">
                                 <img src="img/blog-1.jpg" alt="Image">
@@ -195,7 +195,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-4">
+                    <div class="col-lg-4" class="city state2">
                         <div class="blog-item">
                             <div class="blog-img">
                                 <img src="img/blog-2.jpg" alt="Image">
@@ -212,7 +212,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-4">
+                    <div class="col-lg-4" class="city state3">
                         <div class="blog-item">
                             <div class="blog-img">
                                 <img src="img/blog-3.jpg" alt="Image">
@@ -232,6 +232,24 @@
                 </div>
             </div>
         </div>
+        <script>
+            const filterSelect = document.getElementById("filter-select");
+            const cityList = document.getElementById("city-list");
+          
+            filterSelect.addEventListener("change", function() {
+              const selectedValue = this.value;
+              const cities = cityList.getElementsByClassName("city");
+          
+              for (let i = 0; i < cities.length; i++) {
+                const city = cities[i];
+                if (selectedValue === "all" || city.classList.contains(selectedValue)) {
+                  city.classList.add("show");
+                } else {
+                  city.classList.remove("show");
+                }
+              }
+            });
+          </script>
         <!-- NGO LIST END   -->
 
         <!-- Footer Start -->
