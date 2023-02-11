@@ -1,10 +1,11 @@
-                                  PROBLEM STATEMENT 1 (DEV 01)
+                                          PROBLEM STATEMENT 1 (DEV 01)
                                   
-                                  Rooting for a good cause.
+                                          Rooting for a good cause.
 
-   Objectives:
-● To create a centralized platform that makes it easy for philanthropists to
-discover and support NGOs working in areas they are passionate about.
+                                                
+                                                Objectives:
+                                                
+                ● To create a centralized platform that makes it easy for philanthropists to discover and support NGOs working in areas they are passionate about.
 
 ● To provide philanthropists with comprehensive information about each NGO,
 including their mission, history, and impact, to help them make informed
@@ -38,6 +39,6 @@ the NGO login and user login so that they can be directed to different pages cor
 iii) Introducing Community groups and tools for a better communication and colloborative work between philanthropists
  and NGOs- Creation of a discord group so that the users can connect through discord and communicate by using-chat/video 
  conferencing facilities and also included skype for better tech in purpose of video conferencing.
- 
+
 iv) Improving transparency and accountability-incoperated by using a safe and secure method of payment- RazorPay and 
 integrating it with the website. (Currently in test mode)
