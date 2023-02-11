@@ -176,6 +176,7 @@
     });
 
     // filter
+    
     const filterSelect = document.querySelector('#filter-select');
 const items = document.querySelectorAll('.item');
 
